@@ -1,6 +1,0 @@
-name: Well Worker
-manaCost: '{2}'
-type: Artifact Creature - Worker
-power: 1
-toughness: 1
-text: 'At the beginning of your upkeep, if you control a Well, put a Vim enchantment token into play with "Sacrifice this enchantment: Add {1} to your mana pool.'
