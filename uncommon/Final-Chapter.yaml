@@ -1,0 +1,6 @@
+name: Final Chapter
+rarity: Uncommon
+manaCost: 1{W}{W}
+type: Instant
+text: ~ deals 3 damage to each tapped creature.
+
