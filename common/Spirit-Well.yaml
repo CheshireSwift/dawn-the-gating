@@ -1,0 +1,10 @@
+name: Spirit Well
+rarity: Common
+type: Land - Well
+text: >
+  <em>Shaping</em> - At the beginning of your upkeep, if you control more auras
+  than any other player or are tied for most, gather twice. <em>(Put two
+  colourless Vim enchantment token onto the battlefield with "Sacrifice this
+  enchantment: Add {1} to your mana pool.")</em>
+imgUrl: http://theshapersguild.com/wp-content/uploads/2013/09/spiritwell_spirit_bot_new.jpg
+
