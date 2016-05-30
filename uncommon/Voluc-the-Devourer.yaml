@@ -1,0 +1,9 @@
+name: Voluc, the Devourer
+manaCost: '{6}{W}{B}'
+type: Legendary Creature - Zombie Knight
+text: |
+  Double Strike
+  ~'s power is equal to the number of creature cards in all graveyards.
+power: '*'
+toughness: 5
+imgUrl: http://www.moba-champion.com/images/stats/voluc.jpg
