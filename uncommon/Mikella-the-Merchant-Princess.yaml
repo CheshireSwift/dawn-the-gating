@@ -1,0 +1,10 @@
+name: Mikella, the Merchant Princess
+manaCost: '{3}{R}'
+rarity: Uncommon
+type: Legendary Creature - Human Wizard
+text: 'Sacrifice an enchantment: ~ deals 2 damage to target creature or player.'
+power: 1
+toughness: 3
+flavor: '"Judge me by my deeds, not my looks or lineage."'
+imgUrl: http://www.moba-champion.com/images/stats/mikella.jpg
+

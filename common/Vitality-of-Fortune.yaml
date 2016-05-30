@@ -1,0 +1,9 @@
+name: Vitality of Fortune
+manaCost: '{1}{G}'
+type: Enchantment - Aura
+rarity: common
+text: |
+  Enchant creature
+  Enchanted creature has "{T}: Gather."
+imgUrl: https://pixabay.com/static/uploads/photo/2014/09/28/14/41/water-464953_960_720.jpg
+
