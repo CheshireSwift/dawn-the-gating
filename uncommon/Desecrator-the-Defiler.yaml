@@ -1,0 +1,14 @@
+name: Desecrator, the Defiler
+manaCost: '{2}{B}{B}'
+rarity: Uncommon
+type: Legendary Creature - Zombie Giant
+text: |
+  Defender
+  Whenever a creature blocked by ~ this turn is put into a graveyard,
+  put a 2/2 Black Zombie creature token into play.
+power: 2
+toughness: 5
+flavor: |
+  '"I will inform you of the items that are truly important to understand
+   the man... or the former man, if you prefer."'
+imgUrl: http://www.moba-champion.com/images/stats/desecrator.jpg
