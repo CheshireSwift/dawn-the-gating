@@ -4,11 +4,9 @@ rarity: Uncommon
 type: Legendary Creature - Zombie Giant
 text: |
   Defender
-  Whenever a creature blocked by ~ this turn is put into a graveyard,
-  put a 2/2 Black Zombie creature token into play.
+  Whenever a creature blocked by ~ this turn is put into a graveyard, put a 2/2 Black Zombie creature token into play.
 power: 2
 toughness: 5
-flavor: |
-  '"I will inform you of the items that are truly important to understand
-   the man... or the former man, if you prefer."'
+flavor: >
+  "If I were the victor of my own tale, would I be magically bound within a sepulcher?"
 imgUrl: http://www.moba-champion.com/images/stats/desecrator.jpg
