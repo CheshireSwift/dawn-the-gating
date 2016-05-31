@@ -1,0 +1,2 @@
+language: node_js
+script: npm install -g js-yaml && ls **/*.yaml | xargs -n1 js-yaml

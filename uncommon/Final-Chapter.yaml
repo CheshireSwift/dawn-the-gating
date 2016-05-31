@@ -1,6 +1,6 @@
 name: Final Chapter
 rarity: Uncommon
-manaCost: 1{W}{W}
+manaCost: '{1}{W}{W}'
 type: Instant
 text: ~ deals 3 damage to each tapped creature.
-
+imgUrl: http://embed.gyazo.com/0345de4c30168420fcf62c6fd3ef0a4d.gif

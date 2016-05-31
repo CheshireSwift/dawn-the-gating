@@ -1,0 +1,7 @@
+name: Well Worker
+manaCost: '{2}'
+type: Artifact Creature - Worker
+power: 1
+toughness: 1
+text: 'At the beginning of your upkeep, if you control a Well, gather. <em>(Put a colourless Vim enchantment token onto the battlefield with "Sacrifice this enchantment: Add {1} to your mana pool.")</em>'
+

@@ -1,0 +1,6 @@
+name: Final Payment
+manaCost: '{1}{R}{R}'
+type: Sorcery
+text: ~ deals damage to target creature or player equal to the number of enchantments you control.
+imgUrl: https://pixabay.com/static/uploads/photo/2015/09/05/19/47/money-924828_960_720.jpg
+
