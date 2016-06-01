@@ -1,6 +1,7 @@
 name: Voluc, the Devourer
 manaCost: '{6}{W}{B}'
 type: Legendary Creature - Zombie Knight
+rarity: Rare
 text: |
   Double Strike
   ~'s power is equal to the number of creature cards in all graveyards.
