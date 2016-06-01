@@ -6,4 +6,6 @@ text: |
   ~'s power is equal to the number of creature cards in all graveyards.
 power: '*'
 toughness: 5
+flavor: >
+  "It seems my curse must last another day."
 imgUrl: http://www.moba-champion.com/images/stats/voluc.jpg
