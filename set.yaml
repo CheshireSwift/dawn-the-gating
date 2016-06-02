@@ -1,5 +1,25 @@
-commons: []
-uncommons: []
-rares: []
-mythics: []
+cards:
+  commons: []
+  uncommons: []
+  rares: []
+  mythics: []
+mechanics:
+  Entrust:
+    description: |
+      Entrust is a keyword action. To entrust a permanent, return an aura card from your graveyard to the battlefield, attached to that permanent.
+    format: >
+      "entrust" = "return an Aura card from your graveyard to the battlefield attached to"
+  Shaping:
+    notes:
+      - Not sure how I feel about this one. I worry it'll be too snowbally in Limited and meaningless (always on) in Constructed.
+    description: |
+      Shaping is an ability word that groups abilities that cares about whether or not the player has at least as many auras as each other player (i.e. abilities that affect/are available to the player(s) with the most auras).
+  Reshape:
+    notes:
+      - Worry about having this, and Shaping, and Entrust all together. Might also step on Aura swap's toes? Might play nicely with it though...
+    description: |
+      Reshape is a keyword action meaning move an Aura you control from one valid target to another.
+  Aura swap:
+    notes:
+      - Returning mechanic.
 
